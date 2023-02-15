@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A7454F9B-F657-40EE-AD94-C3F13CC66E40"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB4955CC-7FC2-41F1-9667-E890C7E58B2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCRXSchools/SchoolListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "fetchSchools()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB4955CC-7FC2-41F1-9667-E890C7E58B2B - 8222251e26e72663"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYCRXSchools.SchoolListViewModel.fetchSchools() -&gt; ()"
+                  moduleName = "NYCRXSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Nocturne/Desktop/NYCRXSchools/NYCRXSchools/SchoolListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "401">
+               </Location>
+               <Location
+                  uuid = "EB4955CC-7FC2-41F1-9667-E890C7E58B2B - 40d81c202d3849e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in NYCRXSchools.SchoolListViewModel.fetchSchools() -&gt; ()"
+                  moduleName = "NYCRXSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Nocturne/Desktop/NYCRXSchools/NYCRXSchools/SchoolListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "241AA5DD-8387-41E3-BC0C-DB61C63EEC6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCRXSchools/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
